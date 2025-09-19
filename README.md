@@ -17,6 +17,7 @@ A private AI copilot that answers only from startup’s own documents (policies,
 - **rag.py** → handles RAG ingestion, FAISS indexing
 - **model.py** → LLM connection.
 - **utils.py** → helpers
+- **requirements.txt** → lists Python dependencies for the project
 
 ## Challenges Faced
 - Handling FAISS index load/save correctly.
