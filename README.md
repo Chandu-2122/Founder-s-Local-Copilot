@@ -26,6 +26,9 @@ A private AI copilot that answers only from startup’s own documents (policies,
 - RAG improves accuracy but depends on good chunking & embeddings.
 - Routing with LangGraph makes the system modular and expandable.
 
+## App Snippet
+![image](https://github.com/Chandu-2122/Founder-s-Local-Copilot/blob/8489ab761fcb6beff4b4ec34a375a80040bf79b6/Screenshot%202025-09-19%20012135.png)
+
 ## Future Improvements
 - Add multi-doc support (PDFs, slides).
 - Implement caching for faster retrieval.
